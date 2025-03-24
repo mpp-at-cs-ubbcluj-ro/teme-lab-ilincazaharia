@@ -8,6 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/TemaLab3.iml" filepath="$PROJECT_DIR$/TemaLab3.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/TemaLab3.main.iml" filepath="$PROJECT_DIR$/.idea/modules/TemaLab3.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/TemaLab3.test.iml" filepath="$PROJECT_DIR$/.idea/modules/TemaLab3.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab5.iml" filepath="$PROJECT_DIR$/lab5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lab5.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lab5.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lab5.test.iml" filepath="$PROJECT_DIR$/.idea/modules/lab5.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/teme-lab-ilincazaharia.iml" filepath="$PROJECT_DIR$/.idea/teme-lab-ilincazaharia.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
     </modules>

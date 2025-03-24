@@ -14,6 +14,8 @@ public class ComputerRepairRequestTest {
         assertEquals("",crr.getModel());
     }
 
+    @Test
+    @DisplayName("Second test")
     public void testExample2()
     {
         ComputerRepairRequest crr = new ComputerRepairRequest();
